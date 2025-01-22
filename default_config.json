@@ -1,0 +1,17 @@
+{
+    "lens": {
+        "focal_length": 0.05,
+        "curvature_radius": 0.01,
+        "refractive_index": 1.5,
+        "shape": "circular"
+    },
+    "light_source": {
+        "position": [0.0, 0.0],
+        "wavelength": 550e-9,
+        "intensity": 1.0,
+        "coherence": 1.0
+    },
+    "simulation": {
+        "screen_distance": 1.0
+    }
+}
